@@ -5,7 +5,7 @@ Solves 1D Euler equations using RK2 integration with slope-limited piecewise lin
 
 Initial and boundary conditions are hard-coded by user, who, presumably, knows what he/she is doing.
   
-This code was written some time ago and is, therefore, awfully hideous compared to some of my more recent work. Note that this comment reflects the actual appearance and not function. Obviously a PPM + HLLC method would be superior for resolution compared to the current PLM + CU/KT method employed.
+This code was written some time ago by someone else (to which I've done some modifications) and may be awfully hideous compared to some of my more recent work. Note that this comment reflects the actual appearance and not function. Obviously a PPM + HLLC method would be superior for resolution compared to the current PLM + CU/KT method employed.
 
 Compilation
 ===========
