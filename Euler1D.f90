@@ -1,7 +1,4 @@
-! Author: Vladimir Fuka
-! Solution of Euler equations for compressible fluid
-! in 1D - Riemann problem
-! added subroutine by Donato Cecere :CUMethodLD, and a subroutine for not uniform grid.
+! Solves Eulerian Hydro equations in 1D
 
 program Euler1D
     implicit none
